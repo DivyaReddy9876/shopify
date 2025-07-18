@@ -175,9 +175,15 @@ Bonus competitor insights logic
 Divya Reddy Seerapu
 📧 divyaseerapu7658@gmail.com
 
+<img width="1391" height="909" alt="image" src="https://github.com/user-attachments/assets/bc786c5f-209e-4ddb-9895-83c4e112ee95" />
 
 <img width="942" height="796" alt="image" src="https://github.com/user-attachments/assets/2134a738-a333-4847-94c6-eaa9b69ea669" />
 <img width="708" height="772" alt="image" src="https://github.com/user-attachments/assets/6764701f-8830-4277-9fca-8276ff8a2010" />
+
+
+DATABASE RETRIEVAL : https://drive.google.com/file/d/1JBD8myCuJWAek0ISkOrcKidmZclsA6Xr/view?usp=sharing
+VIDEO REPRESENTATION OF MY TOTAL APPLICATION : https://drive.google.com/file/d/1CBgyuTXNSxqPSsxQIWdaaF5O_LSXmk0p/view?usp=sharing
+FAST API REQUEST LINK DEMO : https://drive.google.com/file/d/168bVFqglknUBEcM2esLxRiVxsFaoBe3h/view?usp=sharing
 
 
 
