@@ -174,3 +174,10 @@ Bonus competitor insights logic
 📩 Contact
 Divya Reddy Seerapu
 📧 divyaseerapu7658@gmail.com
+
+
+<img width="942" height="796" alt="image" src="https://github.com/user-attachments/assets/2134a738-a333-4847-94c6-eaa9b69ea669" />
+<img width="708" height="772" alt="image" src="https://github.com/user-attachments/assets/6764701f-8830-4277-9fca-8276ff8a2010" />
+
+
+
